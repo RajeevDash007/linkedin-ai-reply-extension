@@ -9,7 +9,6 @@ pnpm create plasmo --with-tailwindcss.
 
 ## Demo Video
 
-https://github.com/RajeevDash007/linkedin-ai-reply-extension/blob/c5f31d87b63f09ad2188d841e1db2611b656935e/RajeevLochanDash-Task-Demo.mp4
 
 ## Installation
 
