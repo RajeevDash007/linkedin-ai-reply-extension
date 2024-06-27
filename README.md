@@ -10,6 +10,10 @@ pnpm create plasmo --with-tailwindcss.
 ## Demo Video
 
 
+https://github.com/RajeevDash007/linkedin-ai-reply-extension/assets/96860040/fd25264b-4df2-4a66-885e-480a12b572a8
+
+
+
 ## Installation
 
 ### To start the development server, run the following command:
